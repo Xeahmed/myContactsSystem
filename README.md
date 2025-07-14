@@ -101,8 +101,8 @@ myContactsSystem/
 
 ## 👨‍💻 Developer
 
-Developed by: **[Your Name Here]**  
-Faculty of Computer Science  
+Developed by: **Eng. Ahmed Refat Mohamed**  
+Faculty of Information Technology  
 Java Swing Practice Project
 
 ---
