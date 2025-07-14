@@ -52,20 +52,20 @@ A simple yet functional desktop application built using **Java Swing**, designed
 
 ## 📁 Folder Structure
 
+```
 myContactsSystem/
 ├── src/
-│ └── Loggin/
-│ ├── frmLoggin.java
-│ ├── myContacts.java
-│ ├── *.png (icons/images)
-│ └── logginsystems/
-│ └── LogginSystems.java (main entry)
-├── README.md
-└── screenshots/
-├── login.png
-└── contacts.png
-
----
+│   └── Loggin/
+│       ├── frmLoggin.java
+│       ├── myContacts.java
+│       ├── *.png (icons/images)
+├── logginsystems/
+│   └── LogginSystems.java (main entry)
+├── screenshots/
+│   ├── login.png
+│   └── contacts.png
+└── README.md
+```
 
 ## ▶️ How to Run
 
